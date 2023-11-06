@@ -2,6 +2,10 @@
 
 ¡Hola! Soy Víctor, un apasionado programador y desarrollador de software. Estoy encantado de que hayas encontrado tu camino hasta mi rincón en GitHub. Aquí encontrarás una variedad de proyectos en los que he estado trabajando, desde aplicaciones web hasta proyectos de código abierto.
 
+## Portfolio
+![](https://victormc.vercel.app/img/og.png)
+[Aquí el enlace a mi Portfolio](https://victormc.vercel.app/)
+
 ## Sobre mí
 
 - 💻 Soy un apasionado de la tecnología y la programación.
